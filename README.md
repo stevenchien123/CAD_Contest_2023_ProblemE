@@ -16,20 +16,20 @@
 3. While execution finished, there is a output binary file "decompressed.bin".
 
 ## Result
-1. 官方測資一 (983040 bits) :
+1. Test case 1 (983040 bits) :
    
-   壓縮 / 解壓縮時間 : 12.274 / 17.194 (s)
+   Compression / Decompression time : 12.274 / 17.194 (s)
 
-   壓縮率 (壓縮前/壓縮後) : 31.6 %
+   Compression ratio (before/after) : 31.6 %
 
-2. 官方測資二 (851968 bits) :
+2. Test case 2 (851968 bits) :
    
-   壓縮 / 解壓縮時間 : 4.333 / 14.282 (s)
+   Compression / Decompression time : 4.333 / 14.282 (s)
    
-   壓縮率 (壓縮前/壓縮後) : 31.6 %
+   Compression ratio (before/after) : 31.6 %
    
-3. 官方測資三 (524288 bits) :
+3. Test case 3 (524288 bits) :
    
-   壓縮 / 解壓縮時間 : 6.253 / 8.816 (s)
+   Compression / Decompression time : 6.253 / 8.816 (s)
    
-   壓縮率 (壓縮前/壓縮後) : 31.6 %
+   Compression ratio (before/after) : 31.6 %
