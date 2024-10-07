@@ -1,4 +1,4 @@
-# School-final-project
+# CAD Contest 2023 Problem E: Lossless Data Compress for Memory Hard Repair
 
 ## For compression:
 1. Put the input file into "Compress" directory.
